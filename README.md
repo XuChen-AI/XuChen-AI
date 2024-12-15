@@ -1,5 +1,6 @@
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=888xc888&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
-![Visitor Count](https://profile-counter.glitch.me/888xc888/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=888xc888&layout=compact&theme=tokyonight)
+
 
 <!--
 **888xc888/888xc888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
