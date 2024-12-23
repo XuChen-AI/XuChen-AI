@@ -1,9 +1,9 @@
-### - 🔨 Technology stack
+### - 🔨 Technology stacks
 
-* 机械设计，建模 CAD，有限元分析
-* 机器学习、深度学习、强化学习、生成对抗网络
-* 控制工程，基于模型的控制、基于learning的控制方法
-* Robotic
+* Mechanical Design, CAD Modeling, Finite Element Analysis
+* Machine Learning, Deep Learning, Reinforcement Learning, Generative Adversarial Network
+* Control Engineering, Model-Based Control, Learning-Based Control Method
+* Robotics, ROS1/2
 
 ### - 📫 Projects
 | project name | project description |
