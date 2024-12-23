@@ -9,8 +9,8 @@
 | project name | project description |
 | :--- | :----------- |
 |[优化算法](https://github.com/888xc888/NSGA_2)| 双目标遗传算法二代|
-|[机械臂控制]((https://github.com/888xc888/franka_ros1)|franka research3 的moveit包|
-|[虚拟图像生成]((https://github.com/888xc888/DCGAN_pytorch)|用DCGAN生成虚拟图像|
+|[机械臂控制](https://github.com/888xc888/franka_ros1)|franka research3 的ros1 moveit包|
+|[虚拟图像生成](https://github.com/888xc888/DCGAN_pytorch)|用DCGAN生成虚拟图像|
 |[强化学习拆卸规划](https://github.com/888xc888/DCGAN_pytorch)|用PPO2解决组合优化问题，针对不确定性拆卸问题的改进|
 
 ### - 🤝🏻 Websites & social links
