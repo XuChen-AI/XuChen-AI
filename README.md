@@ -1,5 +1,29 @@
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=888xc888&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=888xc888&layout=compact&theme=tokyonight)
+### - 🔨 Technology stack
+
+* 机械设计，建模 CAD，有限元分析
+* 机器学习、深度学习、强化学习、生成对抗网络
+* 控制工程，基于模型的控制、基于learning的控制方法
+* Robotic
+
+### - 📫 Projects
+| project name | project description |
+| :--- | :----------- |
+|[优化算法]([https://github.com/FearlessPeople/xianyu_spider](https://github.com/888xc888/NSGA_2)| 双目标遗传算法二代|
+|[机械臂控制]([https://github.com/FearlessPeople/lianjia_spider](https://github.com/888xc888/franka_ros1))|franka research3 的moveit包|
+|[虚拟图像生成]([https://github.com/FearlessPeople/fang_spider](https://github.com/888xc888/DCGAN_pytorch)) |用DCGAN生成虚拟图像|
+|[强化学习拆卸规划]([https://github.com/FearlessPeople/fang_spider](https://github.com/888xc888/DCGAN_pytorch)) |用PPO2解决组合优化问题，针对不确定性拆卸问题的改进|
+
+### - 🤝🏻 Websites & social links
+* [ORCiD](https://orcid.org/0009-0007-5024-8281)
+* [LinkedIn](https://www.linkedin.com/in/%E6%99%A8-%E8%AE%B8-932376336/)
+* [ResearchGate](https://www.researchgate.net/profile/Chen-Xu-165)
+
+### - ⭐️ &nbsp;Github Star
+
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=888xc888&count_private=true&show_icons=true"/>
+
+
+
 
 
 <!--
