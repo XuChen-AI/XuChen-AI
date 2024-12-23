@@ -1,4 +1,4 @@
-### - 🔨 Skills
+### - 🛠 Skills
 
 * Mechanical Design, CAD Modeling, Finite Element Analysis
 * Machine Learning, Deep Learning, Reinforcement Learning, Generative Adversarial Network
