@@ -4,6 +4,7 @@
 * Machine Learning, Deep Learning, Reinforcement Learning, Generative Adversarial Network
 * Control Engineering, Model-Based Control, Learning-Based Control Method
 * Robotics, ROS1/2
+* AI,Large Model
 
 ### - 📫 Projects
 | project name | project description |
