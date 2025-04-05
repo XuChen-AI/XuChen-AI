@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=AI+Engineer;Robot+Engineer;Chinese+Painting+Enthusiast" alt="Typing SVG" />
 </div>
-
+![image](https://github.com/888xc888/888xc888/blob/main/%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9B%BE.jpg)
 
 ## - 🛠 Skills
 
