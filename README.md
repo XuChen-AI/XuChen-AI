@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Xu Chen (许晨)
 
+> 兼听则明
 ## - 🛠 Skills
 
 * Mechanical Design, CAD Modeling, Finite Element Analysis
