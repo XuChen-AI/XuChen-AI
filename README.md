@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Xu Chen (许晨)
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Mechanical+Engineering+Student;Robotics+Researcher;Reinforcement+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=AI+Engineer;Robot+Engineer" alt="Typing SVG" />
 </div>
 > 兼听则明
 
