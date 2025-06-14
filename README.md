@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Xu Chen (许晨)
+# 👋 Hi there, I'm Xu Chen
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=AI+Engineer;Robot+Engineer;Chinese+Painting+Enthusiast" alt="Typing SVG" />
 </div>
