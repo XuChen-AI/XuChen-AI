@@ -11,7 +11,7 @@
 * **Optimization Algorithms**: Heuristic Optimization, Multi-objective Optimization
 * **Machine Learning**: ML, Deep Learning, Reinforcement Learning, GANs
 * **Robotics**: Model-Based Control, Learning-Based Control, ROS1/2, Motion Planning
-* **Artificial Intelligence**: Multi-Agent Systems, Large Language Models
+* **Artificial Intelligence**: Multi-Agent Systems, LLM, LangChain
 
 ## - 📫 Projects
 | Project Name | Project Description |
