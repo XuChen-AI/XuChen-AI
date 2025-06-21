@@ -16,12 +16,12 @@
 ## - 📫 Projects
 | Project Name | Project Description |
 | :--- | :----------- |
-|[Robotic Arm Control](https://github.com/888xc888/franka_ros1)|ROS1 MoveIt package for Franka Research3|
-|[Optimization Algorithms](https://github.com/888xc888/NSGA_2)|Multi-objective Genetic Algorithm Generation II|
-|[Virtual Image Generation](https://github.com/888xc888/DCGAN_pytorch)|Virtual image generation using DCGAN|
-|[Disassembly Planning Algorithm](https://github.com/888xc888/DCGAN_pytorch)|Improved PPO2 for combinatorial optimization in uncertain disassembly problems|
-|[GraspMind](https://github.com/888xc888/GraspMind)|Context-Aware Functional Robotic Grasping for Safe Human-Robot Interaction|
-|[CoAudit](https://github.com/888xc888/CoAudit)|A revolutionary multi-agent evaluation framework that simulates expert deliberation through structured dialogue|
+|[Robotic Arm Control](https://github.com/XuChen-AI/franka_ros1)|ROS1 MoveIt package for Franka Research3|
+|[Optimization Algorithms](https://github.com/XuChen-AI/NSGA_2)|Multi-objective Genetic Algorithm Generation II|
+|[Virtual Image Generation](https://github.com/XuChen-AI/DCGAN_pytorch)|Virtual image generation using DCGAN|
+|[Disassembly Planning Algorithm](https://github.com/XuChen-AI/DCGAN_pytorch)|Improved PPO2 for combinatorial optimization in uncertain disassembly problems|
+|[GraspMind](https://github.com/XuChen-AI/GraspMind)|Context-Aware Functional Robotic Grasping for Safe Human-Robot Interaction|
+|[CoAudit](https://github.com/XuChen-AI/CoAudit)|Multi-Agent Evaluation Framework|
 
 
 ## - 🤝🏻 Websites & social links

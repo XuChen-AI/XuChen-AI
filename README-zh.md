@@ -16,12 +16,12 @@
 ## - 📫 项目
 | 项目名称 | 项目描述 |
 | :--- | :----------- |
-|[机械臂控制](https://github.com/888xc888/franka_ros1)|Franka Research3的ROS1 MoveIt包|
-|[优化算法](https://github.com/888xc888/NSGA_2)|多目标遗传算法第二代|
-|[虚拟图像生成](https://github.com/888xc888/DCGAN_pytorch)|使用DCGAN生成虚拟图像|
-|[拆卸规划算法](https://github.com/888xc888/DCGAN_pytorch)|针对不确定性拆卸问题的改进PPO2组合优化|
-|[GraspMind](https://github.com/888xc888/GraspMind)|情境感知功能机器人抓取，用于安全人机交互|
-|[CoAudit](https://github.com/888xc888/CoAudit)|多智能体评估框架|
+|[机械臂控制](https://github.com/XuChen-AI/franka_ros1)|Franka Research3的ROS1 MoveIt包|
+|[优化算法](https://github.com/XuChen-AI/NSGA_2)|多目标遗传算法第二代|
+|[虚拟图像生成](https://github.com/XuChen-AI/DCGAN_pytorch)|使用DCGAN生成虚拟图像|
+|[拆卸规划算法](https://github.com/XuChen-AI/DCGAN_pytorch)|针对不确定性拆卸问题的改进PPO2组合优化|
+|[GraspMind](https://github.com/XuChen-AI/GraspMind)|情境感知功能机器人抓取，用于安全人机交互|
+|[CoAudit](https://github.com/XuChen-AI/CoAudit)|多智能体评估框架|
 
 ## - 🤝🏻 网站和社交链接
 * [ORCiD](https://orcid.org/0009-0007-5024-8281)
